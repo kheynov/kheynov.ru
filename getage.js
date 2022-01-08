@@ -1,6 +1,6 @@
 var now = new Date(); 
 var today = new Date(now.getFullYear(), now.getMonth(), now.getDate()); 
-var dob = new Date(2002, 12, 17);
+var dob = new Date(2002, 11, 17);
 var dobCurrentYear = new Date(today.getFullYear(), dob.getMonth(), dob.getDate()); 
 var age; 
 
